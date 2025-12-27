@@ -65,6 +65,7 @@ Building a reusable platform for analyzing social networks using advanced graph 
 - [ ] Mutual friend suggestions
 - [ ] Bridge detection (Tarjan's)
 - [ ] Friend-adding system by request rather than just adding
+- [ ] After every operation of removing/adding friend, checking changes in community graph
 
 **Target:** End of Q1 2026
 
