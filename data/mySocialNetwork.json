@@ -1,0 +1,3143 @@
+[
+    {
+        "name": "Liam Brown",
+        "age": 24,
+        "country": "Italy",
+        "hobbies": [
+            "BASKETBALL",
+            "PHOTOGRAPHY",
+            "TRAVEL"
+        ],
+        "friends": [
+            "Liam Jones",
+            "Ethan Martin",
+            "Grace King",
+            "Owen Allen",
+            "Olivia Jackson",
+            "Olivia Baker",
+            "Henry Allen",
+            "Amelia Young",
+            "Lily Adams",
+            "Ella Mitchell",
+            "Mason Martinez",
+            "James Cook",
+            "Amelia Cook",
+            "Mason Rodriguez",
+            "Henry Jackson",
+            "Riley Mitchell",
+            "Addison Baker"
+        ],
+        "joined": "2024-05-19T13:47:24.586832",
+        "nationality": "Italian"
+    },
+    {
+        "name": "Noah Green",
+        "age": 23,
+        "country": "Brazil",
+        "hobbies": [
+            "FASHION",
+            "PAINTING",
+            "CHESS",
+            "HIKING",
+            "ANIME"
+        ],
+        "friends": [
+            "Layla Harris",
+            "Mason Martinez",
+            "Liam Mitchell",
+            "Madison Morris",
+            "Isaac Thompson",
+            "Liam Allen",
+            "Victoria Parker",
+            "Lily Adams",
+            "Leo Anderson",
+            "Joseph Hill",
+            "Hannah White",
+            "Layla Williams",
+            "Mason Brown",
+            "Daniel Scott"
+        ],
+        "joined": "2024-03-13T13:47:24.586847",
+        "nationality": "Brazilian"
+    },
+    {
+        "name": "Olivia Thompson",
+        "age": 20,
+        "country": "Turkey",
+        "hobbies": [
+            "COOKING",
+            "BOXING",
+            "BAKING"
+        ],
+        "friends": [
+            "Ava Williams",
+            "Madison Morris",
+            "Grace King",
+            "Riley Mitchell",
+            "Harper Lee",
+            "Lily Harris",
+            "Leo Adams",
+            "Henry Allen",
+            "Noah Jackson",
+            "Amelia Cook",
+            "Ethan Jones"
+        ],
+        "joined": "2024-03-24T13:47:24.586855",
+        "nationality": "Turkish"
+    },
+    {
+        "name": "Isaac Mitchell",
+        "age": 34,
+        "country": "Argentina",
+        "hobbies": [
+            "SKIING",
+            "CYCLING",
+            "GYM"
+        ],
+        "friends": [
+            "Lily Harris",
+            "Ella Reed",
+            "Chloe Allen",
+            "Jack King",
+            "Michael Allen",
+            "Aubrey Edwards",
+            "Leo Anderson",
+            "Ella Mitchell",
+            "Aubrey Morris",
+            "Sebastian Garcia",
+            "Charlotte Davis",
+            "Henry Jackson"
+        ],
+        "joined": "2025-11-28T13:47:24.586861",
+        "nationality": "Argentinian"
+    },
+    {
+        "name": "Ella Reed",
+        "age": 33,
+        "country": "Netherlands",
+        "hobbies": [
+            "SKIING",
+            "GAMING"
+        ],
+        "friends": [
+            "Isaac Mitchell",
+            "Jack Wright",
+            "Gabriel Martinez",
+            "Amelia Moore",
+            "Lily Harris",
+            "Ava Williams",
+            "Noah Allen",
+            "Layla Harris",
+            "Charlotte Davis",
+            "Henry Jackson"
+        ],
+        "joined": "2024-11-13T13:47:24.586868",
+        "nationality": "Dutch"
+    },
+    {
+        "name": "Alex Nelson",
+        "age": 21,
+        "country": "Norway",
+        "hobbies": [
+            "PIANO",
+            "SINGING",
+            "BASKETBALL"
+        ],
+        "friends": [
+            "Riley Turner",
+            "Carter Walker",
+            "Jack Garcia",
+            "Alex Garcia",
+            "Maria Stewart",
+            "Daniel King",
+            "Isaac Thompson",
+            "Riley Anderson",
+            "Henry Allen",
+            "Noah Jackson",
+            "Amelia Young",
+            "Alex Green",
+            "Mason Martinez",
+            "Joseph Davis",
+            "Alex Hall",
+            "Julian Lee",
+            "Daniel Roberts",
+            "Ethan Jones",
+            "Layla Williams",
+            "Harper Lee",
+            "Ava Williams",
+            "Daniel Scott"
+        ],
+        "joined": "2025-12-23T13:47:24.586874",
+        "nationality": "Norwegian"
+    },
+    {
+        "name": "Daniel King",
+        "age": 19,
+        "country": "Canada",
+        "hobbies": [
+            "DANCING",
+            "TENNIS"
+        ],
+        "friends": [
+            "Alex Nelson",
+            "Riley Hill",
+            "Henry Allen",
+            "Jack Adams",
+            "Liam Jones",
+            "Zoe Johnson",
+            "Gabriel Martinez",
+            "Hannah Anderson",
+            "Noah Allen",
+            "Noah Jackson",
+            "Madison Reed",
+            "Isabella Moore",
+            "Carter Walker",
+            "Alex Hall"
+        ],
+        "joined": "2024-04-27T13:47:24.586880",
+        "nationality": "Canadian"
+    },
+    {
+        "name": "Madison Morris",
+        "age": 25,
+        "country": "Spain",
+        "hobbies": [
+            "GARDENING",
+            "MEDITATION",
+            "BOXING"
+        ],
+        "friends": [
+            "Olivia Thompson",
+            "Victoria Parker",
+            "Noah Jackson",
+            "Ethan Hill",
+            "Isaac Martin",
+            "Carter Walker",
+            "David Scott",
+            "Riley Hill",
+            "Zoe Lee",
+            "Lily Carter",
+            "Grace Perez",
+            "Daniel Sanchez",
+            "Lily Adams",
+            "Noah Green",
+            "Aria Jones",
+            "Liam Allen",
+            "Caleb White",
+            "Aubrey Morris",
+            "Amelia Cook",
+            "Riley Mitchell",
+            "Lily Harris",
+            "Mason Brown",
+            "Ella Garcia"
+        ],
+        "joined": "2024-06-17T13:47:24.586886",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Isaac Thompson",
+        "age": 20,
+        "country": "Turkey",
+        "hobbies": [
+            "READING",
+            "CODING"
+        ],
+        "friends": [
+            "Noah Green",
+            "Hannah Anderson",
+            "Nathan Perez",
+            "Zoe Johnson",
+            "Amelia Cook",
+            "Noah Hall",
+            "Harper Jackson",
+            "Ethan Jones",
+            "Alex Nelson",
+            "Carter Walker",
+            "James Anderson",
+            "James Smith",
+            "Madison Reed"
+        ],
+        "joined": "2024-05-03T13:47:24.586892",
+        "nationality": "Turkish"
+    },
+    {
+        "name": "Riley Anderson",
+        "age": 21,
+        "country": "China",
+        "hobbies": [
+            "BASKETBALL",
+            "GAMING",
+            "WRITING"
+        ],
+        "friends": [
+            "Addison White",
+            "Joseph Hill",
+            "Alex Nelson",
+            "Jack Garcia",
+            "Matthew Perez",
+            "Riley Turner",
+            "Julian Lee",
+            "Harper Morris",
+            "Jack King",
+            "John Campbell",
+            "Leo Anderson",
+            "Ethan Martin",
+            "Henry Allen",
+            "Noah Jackson",
+            "Ethan Jones",
+            "Gabriel Martinez"
+        ],
+        "joined": "2024-04-24T13:47:24.586898",
+        "nationality": "Chinese"
+    },
+    {
+        "name": "Olivia Baker",
+        "age": 25,
+        "country": "Thailand",
+        "hobbies": [
+            "MOVIES",
+            "PHOTOGRAPHY",
+            "DANCING",
+            "SINGING"
+        ],
+        "friends": [
+            "John Campbell",
+            "Victoria Walker",
+            "Liam Brown",
+            "David Scott",
+            "Ethan Hill",
+            "Hannah Anderson",
+            "Zoe Johnson",
+            "Joseph Davis",
+            "Amelia Cook",
+            "James Lopez",
+            "Gabriel Martinez",
+            "Addison Baker"
+        ],
+        "joined": "2025-08-17T13:47:24.586904",
+        "nationality": "Thai"
+    },
+    {
+        "name": "Henry Allen",
+        "age": 19,
+        "country": "Chile",
+        "hobbies": [
+            "PHOTOGRAPHY",
+            "TECH"
+        ],
+        "friends": [
+            "Daniel King",
+            "Liam Brown",
+            "Mia Stewart",
+            "Olivia Jackson",
+            "Addison Baker",
+            "Hannah Turner",
+            "Riley Campbell",
+            "Olivia Thompson",
+            "Joseph Davis",
+            "John Campbell",
+            "Isabella Moore",
+            "Carter Walker",
+            "Ella Baker",
+            "Alex Nelson",
+            "Riley Anderson",
+            "Harper Jackson",
+            "Mason Martinez",
+            "Alex Hall",
+            "Ethan Jones",
+            "Scarlett Turner"
+        ],
+        "joined": "2025-05-09T13:47:24.586910",
+        "nationality": "Chilean"
+    },
+    {
+        "name": "Hannah Anderson",
+        "age": 26,
+        "country": "Brazil",
+        "hobbies": [
+            "TRAVEL",
+            "SWIMMING",
+            "DANCING",
+            "CODING",
+            "YOGA"
+        ],
+        "friends": [
+            "Daniel King",
+            "Isaac Thompson",
+            "Zoe Johnson",
+            "Scarlett Mitchell",
+            "Nathan Perez",
+            "Olivia Baker",
+            "David Scott",
+            "Ethan Martin",
+            "Aubrey Morris",
+            "Addison White",
+            "Ethan Jones",
+            "Sebastian Garcia",
+            "Noah Hall"
+        ],
+        "joined": "2025-12-21T13:47:24.586916",
+        "nationality": "Brazilian"
+    },
+    {
+        "name": "Liam Allen",
+        "age": 29,
+        "country": "Canada",
+        "hobbies": [
+            "PAINTING",
+            "GARDENING"
+        ],
+        "friends": [
+            "Noah Green",
+            "Madison Morris",
+            "Liam Mitchell",
+            "Ella Baker",
+            "Noah Allen",
+            "Aubrey Edwards",
+            "Owen Miller",
+            "Alex Green",
+            "Caleb White",
+            "Chloe Collins",
+            "Jack Wright",
+            "Riley Mitchell"
+        ],
+        "joined": "2024-10-11T13:47:24.586922",
+        "nationality": "Canadian"
+    },
+    {
+        "name": "Victoria Parker",
+        "age": 22,
+        "country": "Mexico",
+        "hobbies": [
+            "SPORTS",
+            "FASHION",
+            "TRAVEL",
+            "SURFING"
+        ],
+        "friends": [
+            "Madison Morris",
+            "Owen Allen",
+            "Lily Adams",
+            "Hannah White",
+            "Riley Campbell",
+            "James Cook",
+            "Liam Jones",
+            "Zoe Johnson",
+            "Matthew Moore",
+            "Noah Green",
+            "Leo Adams",
+            "Ethan Hill",
+            "Noah Jackson",
+            "Ella Roberts",
+            "Leo Anderson",
+            "Amelia Cook",
+            "Charlotte Lee",
+            "Jack Collins",
+            "Scarlett Mitchell"
+        ],
+        "joined": "2024-10-24T13:47:24.586928",
+        "nationality": "Mexican"
+    },
+    {
+        "name": "Harper Jackson",
+        "age": 20,
+        "country": "Chile",
+        "hobbies": [
+            "PHOTOGRAPHY",
+            "GYM",
+            "SPORTS",
+            "FOOTBALL",
+            "CYCLING"
+        ],
+        "friends": [
+            "Isaac Thompson",
+            "Henry Allen",
+            "Addison Baker",
+            "Mia Stewart",
+            "Julian Rodriguez",
+            "Olivia Jackson",
+            "Chloe Allen",
+            "Hannah Turner",
+            "Sebastian Garcia"
+        ],
+        "joined": "2025-12-18T13:47:24.586934",
+        "nationality": "Chilean"
+    },
+    {
+        "name": "Ethan Hill",
+        "age": 22,
+        "country": "Netherlands",
+        "hobbies": [
+            "SINGING",
+            "SURFING"
+        ],
+        "friends": [
+            "Madison Morris",
+            "Olivia Baker",
+            "Amelia Young",
+            "Caleb Jackson",
+            "Layla Williams",
+            "Riley Turner",
+            "Ellie Scott",
+            "James Anderson",
+            "Victoria Parker",
+            "Daniel Roberts",
+            "Victoria Walker",
+            "Jack Collins"
+        ],
+        "joined": "2025-02-11T13:47:24.586940",
+        "nationality": "Dutch"
+    },
+    {
+        "name": "Lily Carter",
+        "age": 21,
+        "country": "Russia",
+        "hobbies": [
+            "MEDITATION",
+            "WRITING",
+            "GAMING",
+            "RUNNING",
+            "ANIME"
+        ],
+        "friends": [
+            "Madison Morris",
+            "Olivia Jackson",
+            "Mason Brown",
+            "Carter Walker",
+            "Charlotte Rodriguez",
+            "James Lopez",
+            "Joseph Wright",
+            "Gabriel Martinez",
+            "Liam Jones",
+            "Charlotte Lee",
+            "Ethan Martin",
+            "Noah Jackson",
+            "Caleb White",
+            "Alex Hall",
+            "Joseph Hill",
+            "Michael Allen",
+            "Scarlett Turner",
+            "Jack Wright",
+            "Aria Jones",
+            "Daniel Scott",
+            "Addison Baker"
+        ],
+        "joined": "2025-11-14T13:47:24.586947",
+        "nationality": "Russian"
+    },
+    {
+        "name": "Ella Baker",
+        "age": 18,
+        "country": "Thailand",
+        "hobbies": [
+            "MOVIES",
+            "PAINTING"
+        ],
+        "friends": [
+            "Henry Allen",
+            "Liam Allen",
+            "Harper Lee",
+            "Scarlett Turner",
+            "Daniel Scott",
+            "Caleb Jackson",
+            "Ethan Jones",
+            "Layla Williams"
+        ],
+        "joined": "2025-08-06T13:47:24.586953",
+        "nationality": "Thai"
+    },
+    {
+        "name": "Joseph Wright",
+        "age": 27,
+        "country": "Russia",
+        "hobbies": [
+            "RUNNING",
+            "CYCLING",
+            "WRITING",
+            "HIKING"
+        ],
+        "friends": [
+            "Lily Carter",
+            "Liam Mitchell",
+            "Alex Garcia",
+            "Addison Baker",
+            "Owen Miller",
+            "Caleb White",
+            "Joseph Hill",
+            "Chloe Allen",
+            "Jack King",
+            "Addison White"
+        ],
+        "joined": "2025-10-16T13:47:24.586959",
+        "nationality": "Russian"
+    },
+    {
+        "name": "Riley Hill",
+        "age": 22,
+        "country": "Kazakhstan",
+        "hobbies": [
+            "PIANO",
+            "TENNIS",
+            "DRAWING",
+            "GUITAR"
+        ],
+        "friends": [
+            "Daniel King",
+            "Madison Morris",
+            "Nathan Baker",
+            "Julian Rodriguez",
+            "Noah Jackson",
+            "Isabella Moore",
+            "Joseph Davis",
+            "Addison White",
+            "Jack Collins",
+            "Amelia Moore",
+            "Harper Lee",
+            "Lily Edwards",
+            "Lily Harris",
+            "Noah Hall"
+        ],
+        "joined": "2025-06-25T13:47:24.586965",
+        "nationality": "Kazakh"
+    },
+    {
+        "name": "Noah Allen",
+        "age": 26,
+        "country": "Canada",
+        "hobbies": [
+            "SKIING",
+            "FOOTBALL",
+            "CYCLING"
+        ],
+        "friends": [
+            "Ella Reed",
+            "Addison Baker",
+            "Lily Harris",
+            "Charlotte Brown",
+            "Victoria Walker",
+            "Ava Williams",
+            "Amelia Moore",
+            "Michael Allen",
+            "Daniel King",
+            "Liam Allen",
+            "Julian Rodriguez",
+            "Matthew Perez",
+            "Leo Anderson",
+            "Amelia Cook",
+            "Riley Mitchell",
+            "Noah Hall"
+        ],
+        "joined": "2025-09-30T13:47:24.586971",
+        "nationality": "Canadian"
+    },
+    {
+        "name": "Noah Jackson",
+        "age": 21,
+        "country": "Spain",
+        "hobbies": [
+            "TENNIS",
+            "PAINTING"
+        ],
+        "friends": [
+            "Madison Morris",
+            "Amelia Moore",
+            "Daniel King",
+            "Caleb Jackson",
+            "Olivia Thompson",
+            "Gabriel Martinez",
+            "Riley Anderson",
+            "Victoria Parker",
+            "Lily Carter",
+            "Layla Williams",
+            "Chloe Collins",
+            "Alex Nelson",
+            "Mason Martinez",
+            "Riley Hill",
+            "Alex Garcia",
+            "Olivia Jackson",
+            "Daniel Roberts",
+            "Amelia Cook",
+            "Riley Mitchell"
+        ],
+        "joined": "2025-01-25T13:47:24.586977",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Amelia Young",
+        "age": 32,
+        "country": "South Korea",
+        "hobbies": [
+            "SWIMMING",
+            "SINGING",
+            "BASKETBALL"
+        ],
+        "friends": [
+            "Ethan Hill",
+            "Carter Walker",
+            "Liam Jones",
+            "Layla Williams",
+            "Jack Garcia",
+            "Liam Brown",
+            "Aubrey Morris",
+            "Alex Nelson",
+            "John Campbell",
+            "Ellie Scott",
+            "Aubrey Edwards",
+            "Leo Anderson",
+            "Sebastian Garcia",
+            "Henry Jackson",
+            "Jack Wright"
+        ],
+        "joined": "2025-06-24T13:47:24.586982",
+        "nationality": "Korean"
+    },
+    {
+        "name": "Ellie Scott",
+        "age": 31,
+        "country": "Canada",
+        "hobbies": [
+            "SINGING",
+            "BASKETBALL"
+        ],
+        "friends": [
+            "Ethan Hill",
+            "Layla Williams",
+            "Amelia Young",
+            "Amelia Cook",
+            "Leo Anderson",
+            "Maria Stewart",
+            "Matthew Moore",
+            "Owen Allen",
+            "Nathan Perez"
+        ],
+        "joined": "2025-07-31T13:47:24.586988",
+        "nationality": "Canadian"
+    },
+    {
+        "name": "Lily Adams",
+        "age": 28,
+        "country": "China",
+        "hobbies": [
+            "TECH",
+            "PHOTOGRAPHY",
+            "SPORTS",
+            "MOVIES",
+            "ANIME"
+        ],
+        "friends": [
+            "Madison Morris",
+            "Victoria Parker",
+            "Victoria Walker",
+            "Addison Baker",
+            "Scarlett Turner",
+            "Mia Stewart",
+            "Zoe Johnson",
+            "Mason Brown",
+            "Noah Green",
+            "David Scott",
+            "Leo Anderson",
+            "Liam Brown",
+            "Aubrey Edwards",
+            "Madison Reed",
+            "Ella Mitchell",
+            "Amelia Anderson",
+            "Nathan Perez",
+            "Charlotte Rodriguez",
+            "Daniel Sanchez",
+            "Hannah Turner",
+            "John Campbell",
+            "Mason Rodriguez"
+        ],
+        "joined": "2024-02-01T13:47:24.586994",
+        "nationality": "Chinese"
+    },
+    {
+        "name": "Ella Roberts",
+        "age": 21,
+        "country": "Poland",
+        "hobbies": [
+            "MEDITATION",
+            "BOXING",
+            "FASHION",
+            "SPORTS"
+        ],
+        "friends": [
+            "Owen Allen",
+            "Jack Adams",
+            "Scarlett Mitchell",
+            "Michael Allen",
+            "Isaac Martin",
+            "Daniel Roberts",
+            "Zoe Lee",
+            "Liam Jones",
+            "Carter Walker",
+            "Riley Mitchell",
+            "Charlotte Rodriguez",
+            "Riley Turner",
+            "Victoria Parker",
+            "Charlotte Davis",
+            "Caleb Jackson",
+            "Mason Martinez",
+            "Joseph Davis",
+            "Aubrey Morris",
+            "Scarlett Turner",
+            "Lily Harris"
+        ],
+        "joined": "2025-11-05T13:47:24.587000",
+        "nationality": "Polish"
+    },
+    {
+        "name": "Aubrey Edwards",
+        "age": 31,
+        "country": "Turkey",
+        "hobbies": [
+            "PHOTOGRAPHY",
+            "READING"
+        ],
+        "friends": [
+            "Lily Adams",
+            "Olivia Jackson",
+            "Aria Jones",
+            "Julian Lee",
+            "Isaac Mitchell",
+            "Alex Parker",
+            "Liam Mitchell",
+            "James Anderson",
+            "Zoe Lee",
+            "Liam Allen",
+            "Mason Rodriguez",
+            "Hazel Mitchell",
+            "Mia Stewart",
+            "Amelia Young",
+            "Caleb White",
+            "John Campbell",
+            "James Smith"
+        ],
+        "joined": "2025-06-03T13:47:24.587006",
+        "nationality": "Turkish"
+    },
+    {
+        "name": "Mia Stewart",
+        "age": 23,
+        "country": "Chile",
+        "hobbies": [
+            "PHOTOGRAPHY",
+            "CHESS",
+            "CODING"
+        ],
+        "friends": [
+            "Henry Allen",
+            "Lily Adams",
+            "Aubrey Edwards",
+            "Harper Jackson",
+            "Mason Brown",
+            "Madison Reed",
+            "Mason Martinez",
+            "Joseph Davis",
+            "Layla Harris",
+            "Jack Collins",
+            "Daniel Scott"
+        ],
+        "joined": "2024-01-07T13:47:24.587011",
+        "nationality": "Chilean"
+    },
+    {
+        "name": "Jack Garcia",
+        "age": 33,
+        "country": "Netherlands",
+        "hobbies": [
+            "BASKETBALL",
+            "SINGING",
+            "HIKING",
+            "BAKING"
+        ],
+        "friends": [
+            "Alex Nelson",
+            "Riley Anderson",
+            "Amelia Young",
+            "Riley Turner",
+            "Layla Williams",
+            "John Campbell",
+            "James Lopez",
+            "Maria Stewart",
+            "Michael Allen"
+        ],
+        "joined": "2024-10-06T13:47:24.587017",
+        "nationality": "Dutch"
+    },
+    {
+        "name": "Zoe Johnson",
+        "age": 32,
+        "country": "Germany",
+        "hobbies": [
+            "CODING",
+            "ANIME",
+            "SPORTS",
+            "DANCING"
+        ],
+        "friends": [
+            "Daniel King",
+            "Isaac Thompson",
+            "Hannah Anderson",
+            "Victoria Parker",
+            "Lily Adams",
+            "Nathan Perez",
+            "Hannah Turner",
+            "Charlotte Rodriguez",
+            "Olivia Baker",
+            "Liam Mitchell",
+            "Leo Anderson",
+            "Caleb White",
+            "Jack Wright",
+            "Mason Brown",
+            "Lily Thomas"
+        ],
+        "joined": "2025-07-03T13:47:24.587024",
+        "nationality": "German"
+    },
+    {
+        "name": "Madison Reed",
+        "age": 21,
+        "country": "Sweden",
+        "hobbies": [
+            "CHESS",
+            "MOVIES"
+        ],
+        "friends": [
+            "Lily Adams",
+            "Victoria Walker",
+            "Alex Parker",
+            "Zoe Lee",
+            "Isaac Thompson",
+            "Daniel King",
+            "Layla Harris",
+            "Ella Garcia",
+            "Hazel Mitchell",
+            "Caleb Jackson",
+            "Mason Martinez",
+            "Mia Stewart",
+            "Caleb White",
+            "Daniel Sanchez",
+            "Amelia Cook",
+            "Harper Lee"
+        ],
+        "joined": "2024-10-17T13:47:24.587029",
+        "nationality": "Swedish"
+    },
+    {
+        "name": "Owen Miller",
+        "age": 29,
+        "country": "Thailand",
+        "hobbies": [
+            "GYM",
+            "FOOTBALL",
+            "PAINTING",
+            "WRITING"
+        ],
+        "friends": [
+            "Joseph Wright",
+            "Ethan Martin",
+            "Leo Anderson",
+            "Chloe Collins",
+            "Liam Allen",
+            "Caleb White",
+            "Addison White",
+            "Maria Moore",
+            "Gabriel Martinez",
+            "Matthew Moore"
+        ],
+        "joined": "2025-03-18T13:47:24.587035",
+        "nationality": "Thai"
+    },
+    {
+        "name": "Alex Green",
+        "age": 26,
+        "country": "Norway",
+        "hobbies": [
+            "SPORTS",
+            "PIANO",
+            "TECH",
+            "GARDENING"
+        ],
+        "friends": [
+            "Hannah White",
+            "Liam Allen",
+            "Hannah Turner",
+            "Alex Nelson",
+            "Joseph Davis",
+            "Alex Garcia",
+            "Addison White",
+            "Daniel Roberts",
+            "Scarlett Turner",
+            "Jack Wright",
+            "Ella Garcia"
+        ],
+        "joined": "2024-12-02T13:47:24.587043",
+        "nationality": "Norwegian"
+    },
+    {
+        "name": "Caleb Jackson",
+        "age": 28,
+        "country": "Spain",
+        "hobbies": [
+            "FASHION",
+            "SURFING",
+            "MOVIES"
+        ],
+        "friends": [
+            "Ethan Hill",
+            "Ella Baker",
+            "Noah Jackson",
+            "Madison Reed",
+            "Daniel Roberts",
+            "Ethan Martin",
+            "Ella Roberts",
+            "Hazel Mitchell",
+            "Riley Campbell",
+            "Amelia Anderson",
+            "Charlotte Lee",
+            "Sebastian Garcia",
+            "Nathan Rogers"
+        ],
+        "joined": "2024-02-12T13:47:24.587048",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Alex Parker",
+        "age": 30,
+        "country": "Italy",
+        "hobbies": [
+            "FOOTBALL",
+            "YOGA",
+            "CHESS",
+            "MUSIC"
+        ],
+        "friends": [
+            "Aubrey Edwards",
+            "Madison Reed",
+            "Lily Thomas",
+            "Henry Jackson",
+            "Mason Brown"
+        ],
+        "joined": "2024-04-22T13:47:24.587054",
+        "nationality": "Italian"
+    },
+    {
+        "name": "Hazel Mitchell",
+        "age": 34,
+        "country": "Vietnam",
+        "hobbies": [
+            "DRAWING",
+            "GYM",
+            "BAKING",
+            "TECH",
+            "MOVIES"
+        ],
+        "friends": [
+            "Aubrey Edwards",
+            "Madison Reed",
+            "Caleb Jackson",
+            "Riley Campbell",
+            "Nathan Baker",
+            "Harper Morris",
+            "Caleb White",
+            "Victoria Miller",
+            "Chloe Allen",
+            "Chloe Collins",
+            "Maria Moore"
+        ],
+        "joined": "2025-05-31T13:47:24.587061",
+        "nationality": "Vietnamese"
+    },
+    {
+        "name": "Nathan Baker",
+        "age": 32,
+        "country": "Chile",
+        "hobbies": [
+            "PIANO",
+            "BAKING",
+            "GUITAR",
+            "MOVIES"
+        ],
+        "friends": [
+            "Riley Hill",
+            "Hazel Mitchell",
+            "Joseph Davis",
+            "Charlotte Brown",
+            "Julian Lee",
+            "Henry Jackson",
+            "Lily Edwards"
+        ],
+        "joined": "2024-07-24T13:47:24.587066",
+        "nationality": "Chilean"
+    },
+    {
+        "name": "Isabella Moore",
+        "age": 18,
+        "country": "Norway",
+        "hobbies": [
+            "MUSIC",
+            "COOKING",
+            "TENNIS",
+            "CODING"
+        ],
+        "friends": [
+            "Henry Allen",
+            "Liam Mitchell",
+            "Harper Lee",
+            "Riley Hill",
+            "Daniel King",
+            "Ava Williams",
+            "James Anderson",
+            "Amelia Cook",
+            "Hannah Turner",
+            "Jack Collins",
+            "Sebastian Garcia",
+            "Mason Rodriguez",
+            "Grace Perez",
+            "Riley Mitchell"
+        ],
+        "joined": "2025-04-05T13:47:24.587072",
+        "nationality": "Norwegian"
+    },
+    {
+        "name": "Leo Anderson",
+        "age": 30,
+        "country": "France",
+        "hobbies": [
+            "FOOTBALL",
+            "SKIING",
+            "SPORTS",
+            "BASKETBALL",
+            "FASHION"
+        ],
+        "friends": [
+            "Riley Anderson",
+            "Ellie Scott",
+            "Lily Adams",
+            "Owen Miller",
+            "Noah Allen",
+            "Noah Green",
+            "Isaac Mitchell",
+            "Lily Harris",
+            "Amelia Young",
+            "Gabriel Martinez",
+            "Charlotte Davis",
+            "Victoria Parker",
+            "Jack Adams",
+            "Riley Turner",
+            "Zoe Johnson",
+            "Mason Martinez",
+            "Liam Jones",
+            "Daniel Roberts",
+            "Amelia Cook",
+            "Hannah Turner",
+            "Mason Rodriguez"
+        ],
+        "joined": "2024-09-26T13:47:24.587079",
+        "nationality": "French"
+    },
+    {
+        "name": "Grace King",
+        "age": 22,
+        "country": "Thailand",
+        "hobbies": [
+            "BAKING",
+            "WRITING",
+            "ANIME",
+            "PHOTOGRAPHY"
+        ],
+        "friends": [
+            "Liam Brown",
+            "Olivia Thompson",
+            "Olivia Jackson",
+            "Mason Rodriguez",
+            "Noah Hall",
+            "Ella Garcia",
+            "Leo Adams"
+        ],
+        "joined": "2025-05-30T13:47:24.587085",
+        "nationality": "Thai"
+    },
+    {
+        "name": "Ella Mitchell",
+        "age": 29,
+        "country": "Turkey",
+        "hobbies": [
+            "YOGA",
+            "SKIING",
+            "PHOTOGRAPHY"
+        ],
+        "friends": [
+            "Gabriel Martinez",
+            "James Smith",
+            "Amelia Moore",
+            "Ethan Jones",
+            "Noah Hall",
+            "Isaac Mitchell",
+            "Julian Lee",
+            "Joseph Davis",
+            "Liam Brown",
+            "Lily Adams",
+            "Matthew Moore",
+            "Sophia Thompson",
+            "Mason Rodriguez",
+            "Ava Williams"
+        ],
+        "joined": "2025-12-27T13:47:24.587090",
+        "nationality": "Turkish"
+    },
+    {
+        "name": "Mason Martinez",
+        "age": 21,
+        "country": "China",
+        "hobbies": [
+            "FASHION",
+            "CHESS"
+        ],
+        "friends": [
+            "Noah Green",
+            "Noah Jackson",
+            "Madison Reed",
+            "Charlotte Rodriguez",
+            "Alex Nelson",
+            "Lily Thomas",
+            "Ella Roberts",
+            "Alex Garcia",
+            "Mia Stewart",
+            "Leo Anderson",
+            "Liam Brown",
+            "Henry Allen",
+            "Layla Harris",
+            "Daniel Roberts",
+            "Hannah White",
+            "Ella Garcia"
+        ],
+        "joined": "2024-06-24T13:47:24.587097",
+        "nationality": "Chinese"
+    },
+    {
+        "name": "James Cook",
+        "age": 25,
+        "country": "South Korea",
+        "hobbies": [
+            "TRAVEL",
+            "DANCING"
+        ],
+        "friends": [
+            "Victoria Parker",
+            "Lily Thomas",
+            "David Scott",
+            "Daniel Roberts",
+            "Liam Brown",
+            "Riley Campbell",
+            "Matthew Perez"
+        ],
+        "joined": "2024-01-22T13:47:24.587102",
+        "nationality": "Korean"
+    },
+    {
+        "name": "Carter Walker",
+        "age": 18,
+        "country": "Norway",
+        "hobbies": [
+            "MEDITATION",
+            "ANIME",
+            "TENNIS",
+            "SINGING",
+            "TECH"
+        ],
+        "friends": [
+            "Alex Nelson",
+            "Madison Morris",
+            "Isaac Thompson",
+            "Henry Allen",
+            "Lily Carter",
+            "Amelia Young",
+            "Ella Roberts",
+            "Mason Brown",
+            "Victoria Walker",
+            "Amelia Moore",
+            "Hannah Turner",
+            "Olivia Jackson",
+            "Aubrey Morris",
+            "Daniel King",
+            "Layla Williams",
+            "James Lopez",
+            "Aria Jones"
+        ],
+        "joined": "2024-11-20T13:47:24.587108",
+        "nationality": "Norwegian"
+    },
+    {
+        "name": "Joseph Davis",
+        "age": 35,
+        "country": "Turkey",
+        "hobbies": [
+            "PIANO",
+            "PHOTOGRAPHY",
+            "BOXING"
+        ],
+        "friends": [
+            "Henry Allen",
+            "Nathan Baker",
+            "Ella Mitchell",
+            "Grace Perez",
+            "Riley Hill",
+            "Ella Roberts",
+            "Alex Nelson",
+            "Olivia Jackson",
+            "Alex Green",
+            "Mia Stewart",
+            "Olivia Baker",
+            "Julian Lee",
+            "Lily Edwards",
+            "Riley Mitchell"
+        ],
+        "joined": "2025-11-13T13:47:24.587114",
+        "nationality": "Turkish"
+    },
+    {
+        "name": "Caleb White",
+        "age": 32,
+        "country": "Thailand",
+        "hobbies": [
+            "MEDITATION",
+            "RUNNING",
+            "CHESS"
+        ],
+        "friends": [
+            "Aubrey Edwards",
+            "Zoe Lee",
+            "Lily Carter",
+            "Hazel Mitchell",
+            "Owen Miller",
+            "Amelia Anderson",
+            "Isaac Martin",
+            "Liam Allen",
+            "Madison Morris",
+            "Joseph Wright",
+            "Addison Baker",
+            "Zoe Johnson",
+            "Chloe Allen",
+            "Madison Reed",
+            "Liam Jones"
+        ],
+        "joined": "2025-03-01T13:47:24.587120",
+        "nationality": "Thai"
+    },
+    {
+        "name": "Julian Rodriguez",
+        "age": 19,
+        "country": "Canada",
+        "hobbies": [
+            "HIKING",
+            "FOOTBALL",
+            "PIANO"
+        ],
+        "friends": [
+            "Riley Hill",
+            "Noah Allen",
+            "Addison White",
+            "Victoria Walker",
+            "Harper Jackson",
+            "Alex Garcia",
+            "Hannah White",
+            "Jack Collins",
+            "Nathan Rogers"
+        ],
+        "joined": "2024-10-21T13:47:24.587125",
+        "nationality": "Canadian"
+    },
+    {
+        "name": "Victoria Miller",
+        "age": 25,
+        "country": "Australia",
+        "hobbies": [
+            "BAKING",
+            "GYM",
+            "TECH",
+            "YOGA"
+        ],
+        "friends": [
+            "Mason Rodriguez",
+            "Ethan Martin",
+            "Chloe Collins",
+            "Hazel Mitchell",
+            "Leo Adams"
+        ],
+        "joined": "2025-02-03T13:47:24.587132",
+        "nationality": "Australian"
+    },
+    {
+        "name": "Olivia Jackson",
+        "age": 21,
+        "country": "Spain",
+        "hobbies": [
+            "TENNIS",
+            "PHOTOGRAPHY",
+            "YOGA",
+            "WRITING"
+        ],
+        "friends": [
+            "Liam Brown",
+            "Henry Allen",
+            "Lily Carter",
+            "Aubrey Edwards",
+            "Grace King",
+            "Carter Walker",
+            "Joseph Davis",
+            "Noah Hall",
+            "Harper Jackson",
+            "Riley Campbell",
+            "Noah Jackson",
+            "John Campbell",
+            "Alex Hall",
+            "Ethan Martin",
+            "Amelia Moore",
+            "James Smith"
+        ],
+        "joined": "2025-09-12T13:47:24.587138",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Alex Hall",
+        "age": 19,
+        "country": "UK",
+        "hobbies": [
+            "BAKING",
+            "WRITING"
+        ],
+        "friends": [
+            "Liam Mitchell",
+            "Julian Lee",
+            "Olivia Jackson",
+            "Lily Carter",
+            "Leo Adams",
+            "Noah Hall",
+            "Henry Allen",
+            "John Campbell",
+            "Jack King",
+            "Alex Garcia",
+            "Daniel King",
+            "Alex Nelson",
+            "Joseph Hill"
+        ],
+        "joined": "2024-11-20T13:47:24.587143",
+        "nationality": "British"
+    },
+    {
+        "name": "Alex Garcia",
+        "age": 22,
+        "country": "China",
+        "hobbies": [
+            "HIKING",
+            "PIANO",
+            "GARDENING",
+            "WRITING"
+        ],
+        "friends": [
+            "Alex Nelson",
+            "Joseph Wright",
+            "Noah Jackson",
+            "Mason Martinez",
+            "Alex Hall",
+            "Alex Green",
+            "Addison White",
+            "Julian Lee",
+            "Harper Lee",
+            "Julian Rodriguez",
+            "Joseph Hill",
+            "Riley Mitchell"
+        ],
+        "joined": "2025-07-14T13:47:24.587149",
+        "nationality": "Chinese"
+    },
+    {
+        "name": "Amelia Anderson",
+        "age": 28,
+        "country": "South Korea",
+        "hobbies": [
+            "MOVIES",
+            "MEDITATION"
+        ],
+        "friends": [
+            "Caleb White",
+            "Caleb Jackson",
+            "Michael Allen",
+            "Lily Adams",
+            "Riley Campbell",
+            "Daniel Sanchez",
+            "Aria Jones"
+        ],
+        "joined": "2024-08-12T13:47:24.587155",
+        "nationality": "Korean"
+    },
+    {
+        "name": "Joseph Hill",
+        "age": 24,
+        "country": "Germany",
+        "hobbies": [
+            "WRITING",
+            "ANIME"
+        ],
+        "friends": [
+            "Riley Anderson",
+            "Ethan Martin",
+            "Noah Green",
+            "Alex Garcia",
+            "Alex Hall",
+            "Joseph Wright",
+            "Lily Carter",
+            "Ella Garcia",
+            "Daniel Scott"
+        ],
+        "joined": "2024-02-15T13:47:24.587160",
+        "nationality": "German"
+    },
+    {
+        "name": "Chloe Allen",
+        "age": 34,
+        "country": "UK",
+        "hobbies": [
+            "RUNNING",
+            "GYM"
+        ],
+        "friends": [
+            "Isaac Mitchell",
+            "Caleb White",
+            "Michael Allen",
+            "Joseph Wright",
+            "Hazel Mitchell",
+            "Harper Jackson",
+            "Charlotte Lee"
+        ],
+        "joined": "2024-10-25T13:47:24.587166",
+        "nationality": "British"
+    },
+    {
+        "name": "Aubrey Morris",
+        "age": 20,
+        "country": "Canada",
+        "hobbies": [
+            "SWIMMING",
+            "MEDITATION",
+            "GYM",
+            "MUSIC"
+        ],
+        "friends": [
+            "Amelia Young",
+            "Carter Walker",
+            "Maria Moore",
+            "Hannah Anderson",
+            "Madison Morris",
+            "Aria Jones",
+            "Ella Roberts",
+            "Isaac Mitchell",
+            "Liam Jones"
+        ],
+        "joined": "2024-03-29T13:47:24.587171",
+        "nationality": "Canadian"
+    },
+    {
+        "name": "Jack King",
+        "age": 35,
+        "country": "Australia",
+        "hobbies": [
+            "WRITING",
+            "CYCLING"
+        ],
+        "friends": [
+            "Isaac Mitchell",
+            "Riley Anderson",
+            "Alex Hall",
+            "Julian Lee",
+            "Joseph Wright",
+            "Michael Allen",
+            "Noah Hall"
+        ],
+        "joined": "2024-04-16T13:47:24.587177",
+        "nationality": "Australian"
+    },
+    {
+        "name": "James Anderson",
+        "age": 19,
+        "country": "Spain",
+        "hobbies": [
+            "READING",
+            "SINGING",
+            "MUSIC"
+        ],
+        "friends": [
+            "Isaac Thompson",
+            "Ethan Hill",
+            "Aubrey Edwards",
+            "Sebastian Garcia",
+            "Victoria Walker",
+            "Charlotte Lopez",
+            "Isabella Moore",
+            "James Lopez"
+        ],
+        "joined": "2024-12-21T13:47:24.587183",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Nathan Perez",
+        "age": 29,
+        "country": "Canada",
+        "hobbies": [
+            "GUITAR",
+            "SPORTS",
+            "CODING"
+        ],
+        "friends": [
+            "Isaac Thompson",
+            "Hannah Anderson",
+            "Ellie Scott",
+            "Zoe Johnson",
+            "Noah Hall",
+            "Lily Adams",
+            "Hannah Turner",
+            "Amelia Cook",
+            "Maria Moore",
+            "Lily Edwards",
+            "Jack Wright",
+            "Lily Harris"
+        ],
+        "joined": "2025-05-30T13:47:24.587189",
+        "nationality": "Canadian"
+    },
+    {
+        "name": "Ethan Martin",
+        "age": 26,
+        "country": "Netherlands",
+        "hobbies": [
+            "YOGA",
+            "WRITING",
+            "MOVIES",
+            "GAMING",
+            "BASKETBALL"
+        ],
+        "friends": [
+            "Liam Brown",
+            "Riley Anderson",
+            "Hannah Anderson",
+            "Lily Carter",
+            "Owen Miller",
+            "Caleb Jackson",
+            "Victoria Miller",
+            "Joseph Hill",
+            "Harper Morris",
+            "Olivia Jackson",
+            "Owen Allen",
+            "Charlotte Rodriguez",
+            "Daniel Sanchez",
+            "Ethan Jones",
+            "Scarlett Turner",
+            "Noah Hall",
+            "Matthew Moore"
+        ],
+        "joined": "2025-05-04T13:47:24.587196",
+        "nationality": "Dutch"
+    },
+    {
+        "name": "Owen Allen",
+        "age": 21,
+        "country": "Poland",
+        "hobbies": [
+            "BASKETBALL",
+            "TRAVEL"
+        ],
+        "friends": [
+            "Liam Brown",
+            "Victoria Parker",
+            "Ellie Scott",
+            "Ella Roberts",
+            "Matthew Perez",
+            "Ethan Martin",
+            "Hannah White",
+            "Scarlett Mitchell",
+            "Henry Jackson"
+        ],
+        "joined": "2025-05-24T13:47:24.587201",
+        "nationality": "Polish"
+    },
+    {
+        "name": "Addison White",
+        "age": 22,
+        "country": "Poland",
+        "hobbies": [
+            "PIANO",
+            "DANCING",
+            "WRITING"
+        ],
+        "friends": [
+            "Riley Anderson",
+            "Julian Rodriguez",
+            "Alex Garcia",
+            "Hannah Anderson",
+            "Alex Green",
+            "Liam Jones",
+            "Riley Hill",
+            "Owen Miller",
+            "Daniel Roberts",
+            "Joseph Wright",
+            "John Campbell"
+        ],
+        "joined": "2024-10-08T13:47:24.587208",
+        "nationality": "Polish"
+    },
+    {
+        "name": "Charlotte Rodriguez",
+        "age": 34,
+        "country": "Sweden",
+        "hobbies": [
+            "FASHION",
+            "YOGA",
+            "GAMING",
+            "ANIME"
+        ],
+        "friends": [
+            "Lily Carter",
+            "Ella Roberts",
+            "Zoe Johnson",
+            "Mason Martinez",
+            "Jack Wright",
+            "Lily Adams",
+            "Ethan Martin",
+            "Harper Morris"
+        ],
+        "joined": "2024-09-26T13:47:24.587215",
+        "nationality": "Swedish"
+    },
+    {
+        "name": "Julian Lee",
+        "age": 34,
+        "country": "India",
+        "hobbies": [
+            "PIANO",
+            "PHOTOGRAPHY",
+            "WRITING"
+        ],
+        "friends": [
+            "Riley Anderson",
+            "Aubrey Edwards",
+            "Ella Mitchell",
+            "Alex Hall",
+            "Alex Garcia",
+            "Jack King",
+            "John Campbell",
+            "David Scott",
+            "Joseph Davis",
+            "Sophia Thompson",
+            "Alex Nelson",
+            "Daniel Scott",
+            "Nathan Baker",
+            "Mason Brown"
+        ],
+        "joined": "2025-10-30T13:47:24.587220",
+        "nationality": "Indian"
+    },
+    {
+        "name": "Matthew Perez",
+        "age": 20,
+        "country": "Chile",
+        "hobbies": [
+            "FASHION",
+            "FOOTBALL",
+            "TRAVEL",
+            "ANIME",
+            "BASKETBALL"
+        ],
+        "friends": [
+            "Riley Anderson",
+            "Noah Allen",
+            "James Cook",
+            "Owen Allen",
+            "Hannah White",
+            "Scarlett Mitchell",
+            "Liam Jones",
+            "Lily Thomas",
+            "Matthew Moore"
+        ],
+        "joined": "2025-04-01T13:47:24.587227",
+        "nationality": "Chilean"
+    },
+    {
+        "name": "Liam Jones",
+        "age": 23,
+        "country": "Canada",
+        "hobbies": [
+            "DANCING",
+            "FASHION",
+            "BASKETBALL",
+            "MEDITATION"
+        ],
+        "friends": [
+            "Liam Brown",
+            "Daniel King",
+            "Victoria Parker",
+            "Lily Carter",
+            "Amelia Young",
+            "Ella Roberts",
+            "Caleb White",
+            "Aubrey Morris",
+            "Addison White",
+            "Isaac Martin",
+            "Matthew Perez",
+            "Leo Anderson",
+            "Aria Jones"
+        ],
+        "joined": "2025-06-21T13:47:24.587237",
+        "nationality": "Canadian"
+    },
+    {
+        "name": "David Scott",
+        "age": 29,
+        "country": "Kazakhstan",
+        "hobbies": [
+            "PHOTOGRAPHY",
+            "DANCING",
+            "BOXING"
+        ],
+        "friends": [
+            "Madison Morris",
+            "Olivia Baker",
+            "Hannah Anderson",
+            "Lily Adams",
+            "James Cook",
+            "Julian Lee",
+            "Lily Harris"
+        ],
+        "joined": "2025-09-12T13:47:24.587243",
+        "nationality": "Kazakh"
+    },
+    {
+        "name": "Daniel Roberts",
+        "age": 25,
+        "country": "South Korea",
+        "hobbies": [
+            "FASHION",
+            "PIANO",
+            "SURFING",
+            "DRAWING",
+            "PAINTING"
+        ],
+        "friends": [
+            "Ella Roberts",
+            "Caleb Jackson",
+            "James Cook",
+            "Addison White",
+            "Alex Green",
+            "Alex Nelson",
+            "Ava Williams",
+            "Mason Martinez",
+            "Leo Anderson",
+            "Ethan Hill",
+            "Chloe Collins",
+            "Noah Jackson",
+            "Layla Harris",
+            "Daniel Scott",
+            "Nathan Rogers"
+        ],
+        "joined": "2024-10-29T13:47:24.587250",
+        "nationality": "Korean"
+    },
+    {
+        "name": "Daniel Sanchez",
+        "age": 24,
+        "country": "Brazil",
+        "hobbies": [
+            "GARDENING",
+            "MOVIES"
+        ],
+        "friends": [
+            "Madison Morris",
+            "Lily Adams",
+            "Riley Mitchell",
+            "Harper Lee",
+            "Amelia Anderson",
+            "Riley Campbell",
+            "Madison Reed",
+            "Ethan Martin",
+            "Scarlett Turner"
+        ],
+        "joined": "2025-09-29T13:47:24.587255",
+        "nationality": "Brazilian"
+    },
+    {
+        "name": "Amelia Cook",
+        "age": 23,
+        "country": "France",
+        "hobbies": [
+            "CODING",
+            "SINGING"
+        ],
+        "friends": [
+            "Isaac Thompson",
+            "Ellie Scott",
+            "Olivia Baker",
+            "Noah Allen",
+            "Noah Jackson",
+            "Jack Wright",
+            "Isabella Moore",
+            "Olivia Thompson",
+            "Liam Brown",
+            "Maria Stewart",
+            "Madison Reed",
+            "Madison Morris",
+            "Leo Anderson",
+            "Nathan Perez",
+            "Victoria Parker"
+        ],
+        "joined": "2025-04-27T13:47:24.587261",
+        "nationality": "French"
+    },
+    {
+        "name": "Hannah White",
+        "age": 18,
+        "country": "Russia",
+        "hobbies": [
+            "TECH",
+            "PIANO",
+            "TRAVEL",
+            "FASHION"
+        ],
+        "friends": [
+            "Victoria Parker",
+            "Alex Green",
+            "Owen Allen",
+            "Matthew Perez",
+            "Harper Lee",
+            "Julian Rodriguez",
+            "Noah Green",
+            "Mason Martinez",
+            "Scarlett Turner",
+            "Scarlett Mitchell"
+        ],
+        "joined": "2024-08-11T13:47:24.587267",
+        "nationality": "Russian"
+    },
+    {
+        "name": "Chloe Collins",
+        "age": 27,
+        "country": "South Korea",
+        "hobbies": [
+            "COOKING",
+            "HIKING",
+            "PAINTING",
+            "READING",
+            "BAKING"
+        ],
+        "friends": [
+            "Noah Jackson",
+            "Owen Miller",
+            "Victoria Miller",
+            "Daniel Roberts",
+            "Layla Williams",
+            "Michael Allen",
+            "Zoe Lee",
+            "Liam Allen",
+            "Sophia Thompson",
+            "Hazel Mitchell",
+            "Charlotte Brown",
+            "Daniel Scott",
+            "Riley Turner",
+            "Layla Harris",
+            "Mason Rodriguez",
+            "Liam Mitchell",
+            "Ava Williams"
+        ],
+        "joined": "2024-08-21T13:47:24.587273",
+        "nationality": "Korean"
+    },
+    {
+        "name": "Hannah Turner",
+        "age": 30,
+        "country": "Kazakhstan",
+        "hobbies": [
+            "SPORTS",
+            "TENNIS",
+            "TECH"
+        ],
+        "friends": [
+            "Henry Allen",
+            "Zoe Johnson",
+            "Alex Green",
+            "Carter Walker",
+            "Nathan Perez",
+            "Charlotte Brown",
+            "Mason Rodriguez",
+            "Jack Wright",
+            "Jack Adams",
+            "Leo Anderson",
+            "Lily Adams",
+            "Harper Jackson",
+            "Isabella Moore"
+        ],
+        "joined": "2024-12-01T13:47:24.587279",
+        "nationality": "Kazakh"
+    },
+    {
+        "name": "Sophia Thompson",
+        "age": 28,
+        "country": "Canada",
+        "hobbies": [
+            "WRITING",
+            "SKIING",
+            "HIKING",
+            "YOGA"
+        ],
+        "friends": [
+            "Julian Lee",
+            "Chloe Collins",
+            "Ella Mitchell",
+            "Harper Lee",
+            "Noah Hall"
+        ],
+        "joined": "2024-12-27T13:47:24.587285",
+        "nationality": "Canadian"
+    },
+    {
+        "name": "Isaac Martin",
+        "age": 18,
+        "country": "Brazil",
+        "hobbies": [
+            "BASKETBALL",
+            "RUNNING",
+            "MEDITATION"
+        ],
+        "friends": [
+            "Madison Morris",
+            "Ella Roberts",
+            "Caleb White",
+            "Liam Jones",
+            "Aria Jones"
+        ],
+        "joined": "2025-07-05T13:47:24.587291",
+        "nationality": "Brazilian"
+    },
+    {
+        "name": "Charlotte Lee",
+        "age": 19,
+        "country": "Germany",
+        "hobbies": [
+            "SURFING",
+            "RUNNING"
+        ],
+        "friends": [
+            "Lily Carter",
+            "Leo Adams",
+            "Victoria Parker",
+            "Chloe Allen",
+            "Caleb Jackson",
+            "Addison Baker"
+        ],
+        "joined": "2024-10-31T13:47:24.587296",
+        "nationality": "German"
+    },
+    {
+        "name": "Layla Harris",
+        "age": 34,
+        "country": "Italy",
+        "hobbies": [
+            "CHESS",
+            "PAINTING"
+        ],
+        "friends": [
+            "Noah Green",
+            "Madison Reed",
+            "Mason Martinez",
+            "Daniel Roberts",
+            "Zoe Lee",
+            "Lily Thomas",
+            "Grace Perez",
+            "Ella Reed",
+            "Mia Stewart",
+            "Liam Mitchell",
+            "Chloe Collins",
+            "Jack Collins",
+            "Layla Williams",
+            "Henry Jackson",
+            "Nathan Rogers"
+        ],
+        "joined": "2024-11-12T13:47:24.587304",
+        "nationality": "Italian"
+    },
+    {
+        "name": "Maria Moore",
+        "age": 24,
+        "country": "Netherlands",
+        "hobbies": [
+            "GYM",
+            "GUITAR"
+        ],
+        "friends": [
+            "Aubrey Morris",
+            "Harper Morris",
+            "Mason Rodriguez",
+            "Owen Miller",
+            "Nathan Perez",
+            "Hazel Mitchell",
+            "Lily Harris"
+        ],
+        "joined": "2025-07-26T13:47:24.587310",
+        "nationality": "Dutch"
+    },
+    {
+        "name": "Victoria Walker",
+        "age": 21,
+        "country": "Argentina",
+        "hobbies": [
+            "MOVIES",
+            "FOOTBALL",
+            "PHOTOGRAPHY",
+            "SINGING"
+        ],
+        "friends": [
+            "Olivia Baker",
+            "Noah Allen",
+            "Lily Adams",
+            "Madison Reed",
+            "Carter Walker",
+            "Julian Rodriguez",
+            "James Anderson",
+            "John Campbell",
+            "Ethan Hill",
+            "Harper Lee"
+        ],
+        "joined": "2024-01-10T13:47:24.587316",
+        "nationality": "Argentinian"
+    },
+    {
+        "name": "Ethan Jones",
+        "age": 18,
+        "country": "France",
+        "hobbies": [
+            "YOGA",
+            "SKIING",
+            "READING"
+        ],
+        "friends": [
+            "Isaac Thompson",
+            "Ella Mitchell",
+            "Ella Baker",
+            "Charlotte Lopez",
+            "Amelia Moore",
+            "Riley Anderson",
+            "Riley Campbell",
+            "Hannah Anderson",
+            "Lily Harris",
+            "Harper Morris",
+            "Ethan Martin",
+            "Alex Nelson",
+            "Gabriel Martinez",
+            "Olivia Thompson",
+            "Henry Allen",
+            "Aria Jones"
+        ],
+        "joined": "2024-12-25T13:47:24.587321",
+        "nationality": "French"
+    },
+    {
+        "name": "Jack Collins",
+        "age": 19,
+        "country": "Thailand",
+        "hobbies": [
+            "COOKING",
+            "CHESS"
+        ],
+        "friends": [
+            "Ethan Hill",
+            "Isabella Moore",
+            "Mia Stewart",
+            "Victoria Parker",
+            "Ella Garcia",
+            "Riley Hill",
+            "Zoe Lee",
+            "Grace Perez",
+            "Mason Rodriguez",
+            "Julian Rodriguez",
+            "Nathan Rogers",
+            "Layla Harris",
+            "Riley Mitchell",
+            "Henry Jackson",
+            "Ava Williams"
+        ],
+        "joined": "2024-10-01T13:47:24.587327",
+        "nationality": "Thai"
+    },
+    {
+        "name": "Sebastian Garcia",
+        "age": 25,
+        "country": "Spain",
+        "hobbies": [
+            "DRAWING",
+            "MUSIC",
+            "CYCLING",
+            "SWIMMING"
+        ],
+        "friends": [
+            "James Anderson",
+            "Isaac Mitchell",
+            "Riley Mitchell",
+            "Harper Jackson",
+            "Caleb Jackson",
+            "Addison Baker",
+            "Ava Williams",
+            "Isabella Moore",
+            "Hannah Anderson",
+            "Amelia Young",
+            "Harper Morris"
+        ],
+        "joined": "2025-02-28T13:47:24.587333",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Layla Williams",
+        "age": 30,
+        "country": "Japan",
+        "hobbies": [
+            "TECH",
+            "SINGING",
+            "PAINTING"
+        ],
+        "friends": [
+            "Ethan Hill",
+            "Noah Jackson",
+            "Amelia Young",
+            "Ellie Scott",
+            "Chloe Collins",
+            "Carter Walker",
+            "Jack Wright",
+            "Alex Nelson",
+            "Layla Harris",
+            "Ella Baker",
+            "Riley Turner",
+            "Scarlett Turner",
+            "Jack Garcia",
+            "Noah Green",
+            "James Lopez"
+        ],
+        "joined": "2025-04-17T13:47:24.587338",
+        "nationality": "Japanese"
+    },
+    {
+        "name": "John Campbell",
+        "age": 30,
+        "country": "Spain",
+        "hobbies": [
+            "PIANO",
+            "SINGING",
+            "WRITING",
+            "RUNNING",
+            "PHOTOGRAPHY"
+        ],
+        "friends": [
+            "Riley Anderson",
+            "Olivia Baker",
+            "Henry Allen",
+            "Amelia Young",
+            "Olivia Jackson",
+            "Alex Hall",
+            "Julian Lee",
+            "Victoria Walker",
+            "Jack Garcia",
+            "Lily Adams",
+            "Aubrey Edwards",
+            "Addison White",
+            "Addison Baker"
+        ],
+        "joined": "2024-01-26T13:47:24.587345",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Charlotte Davis",
+        "age": 35,
+        "country": "Spain",
+        "hobbies": [
+            "BASKETBALL",
+            "MEDITATION",
+            "SKIING"
+        ],
+        "friends": [
+            "Ella Roberts",
+            "Leo Anderson",
+            "Isaac Mitchell",
+            "Ella Reed",
+            "Zoe Lee"
+        ],
+        "joined": "2024-07-20T13:47:24.587351",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Mason Rodriguez",
+        "age": 25,
+        "country": "China",
+        "hobbies": [
+            "SPORTS",
+            "COOKING",
+            "PHOTOGRAPHY",
+            "GYM"
+        ],
+        "friends": [
+            "Aubrey Edwards",
+            "Victoria Miller",
+            "Hannah Turner",
+            "Maria Moore",
+            "Jack Collins",
+            "Grace King",
+            "Chloe Collins",
+            "Leo Anderson",
+            "Ella Mitchell",
+            "Isabella Moore",
+            "Jack Wright",
+            "Lily Adams",
+            "Liam Brown"
+        ],
+        "joined": "2025-03-04T13:47:24.587357",
+        "nationality": "Chinese"
+    },
+    {
+        "name": "Amelia Moore",
+        "age": 18,
+        "country": "UK",
+        "hobbies": [
+            "SKIING",
+            "TENNIS",
+            "YOGA",
+            "PAINTING"
+        ],
+        "friends": [
+            "Ella Reed",
+            "Noah Allen",
+            "Noah Jackson",
+            "Ella Mitchell",
+            "Carter Walker",
+            "Ethan Jones",
+            "Ava Williams",
+            "Harper Lee",
+            "Riley Hill",
+            "Olivia Jackson",
+            "Daniel Scott",
+            "Matthew Moore"
+        ],
+        "joined": "2025-05-20T13:47:24.587364",
+        "nationality": "British"
+    },
+    {
+        "name": "James Lopez",
+        "age": 20,
+        "country": "Russia",
+        "hobbies": [
+            "SINGING",
+            "MEDITATION"
+        ],
+        "friends": [
+            "Lily Carter",
+            "Olivia Baker",
+            "Jack Garcia",
+            "Ava Williams",
+            "Riley Turner",
+            "James Anderson",
+            "Aria Jones",
+            "Carter Walker",
+            "Layla Williams"
+        ],
+        "joined": "2024-04-02T13:47:24.587369",
+        "nationality": "Russian"
+    },
+    {
+        "name": "Liam Mitchell",
+        "age": 29,
+        "country": "Turkey",
+        "hobbies": [
+            "PAINTING",
+            "WRITING",
+            "HIKING",
+            "CODING",
+            "MUSIC"
+        ],
+        "friends": [
+            "Noah Green",
+            "Liam Allen",
+            "Joseph Wright",
+            "Aubrey Edwards",
+            "Zoe Johnson",
+            "Isabella Moore",
+            "Alex Hall",
+            "Layla Harris",
+            "Chloe Collins",
+            "Daniel Scott"
+        ],
+        "joined": "2025-09-19T13:47:24.587375",
+        "nationality": "Turkish"
+    },
+    {
+        "name": "Maria Stewart",
+        "age": 30,
+        "country": "Poland",
+        "hobbies": [
+            "SINGING",
+            "PIANO"
+        ],
+        "friends": [
+            "Alex Nelson",
+            "Ellie Scott",
+            "Amelia Cook",
+            "Jack Garcia"
+        ],
+        "joined": "2025-10-13T13:47:24.587380",
+        "nationality": "Polish"
+    },
+    {
+        "name": "Harper Lee",
+        "age": 18,
+        "country": "UK",
+        "hobbies": [
+            "COOKING",
+            "MOVIES",
+            "HIKING",
+            "SKIING",
+            "PIANO"
+        ],
+        "friends": [
+            "Olivia Thompson",
+            "Ella Baker",
+            "Isabella Moore",
+            "Alex Garcia",
+            "Daniel Sanchez",
+            "Hannah White",
+            "Amelia Moore",
+            "Scarlett Turner",
+            "Sophia Thompson",
+            "Riley Hill",
+            "Alex Nelson",
+            "Madison Reed",
+            "Victoria Walker",
+            "Ava Williams"
+        ],
+        "joined": "2025-11-18T13:47:24.587387",
+        "nationality": "British"
+    },
+    {
+        "name": "Michael Allen",
+        "age": 31,
+        "country": "India",
+        "hobbies": [
+            "RUNNING",
+            "HIKING",
+            "MEDITATION",
+            "CYCLING"
+        ],
+        "friends": [
+            "Isaac Mitchell",
+            "Noah Allen",
+            "Ella Roberts",
+            "Amelia Anderson",
+            "Chloe Allen",
+            "Chloe Collins",
+            "Noah Hall",
+            "Riley Turner",
+            "Jack King",
+            "Lily Carter",
+            "Addison Baker",
+            "Jack Garcia"
+        ],
+        "joined": "2024-03-02T13:47:24.587393",
+        "nationality": "Indian"
+    },
+    {
+        "name": "Scarlett Turner",
+        "age": 24,
+        "country": "Poland",
+        "hobbies": [
+            "MOVIES",
+            "RUNNING",
+            "TECH"
+        ],
+        "friends": [
+            "Ella Baker",
+            "Lily Adams",
+            "Layla Williams",
+            "Harper Lee",
+            "Alex Green",
+            "Lily Carter",
+            "Ella Roberts",
+            "Hannah White",
+            "Henry Allen",
+            "Ethan Martin",
+            "Addison Baker",
+            "Daniel Sanchez"
+        ],
+        "joined": "2025-05-17T13:47:24.587398",
+        "nationality": "Polish"
+    },
+    {
+        "name": "Riley Turner",
+        "age": 30,
+        "country": "Argentina",
+        "hobbies": [
+            "FASHION",
+            "BASKETBALL",
+            "MEDITATION",
+            "BAKING",
+            "SINGING"
+        ],
+        "friends": [
+            "Alex Nelson",
+            "Riley Anderson",
+            "Ethan Hill",
+            "Ella Roberts",
+            "Jack Garcia",
+            "Leo Anderson",
+            "Chloe Collins",
+            "Layla Williams",
+            "James Lopez",
+            "Michael Allen",
+            "Jack Wright"
+        ],
+        "joined": "2024-04-12T13:47:24.587404",
+        "nationality": "Argentinian"
+    },
+    {
+        "name": "Henry Jackson",
+        "age": 35,
+        "country": "France",
+        "hobbies": [
+            "CHESS",
+            "TRAVEL"
+        ],
+        "friends": [
+            "Alex Parker",
+            "Owen Allen",
+            "Jack Collins",
+            "Nathan Baker",
+            "Liam Brown",
+            "Ella Garcia",
+            "Amelia Young",
+            "Isaac Mitchell",
+            "Ella Reed",
+            "Layla Harris"
+        ],
+        "joined": "2025-07-28T13:47:24.587409",
+        "nationality": "French"
+    },
+    {
+        "name": "Scarlett Mitchell",
+        "age": 20,
+        "country": "Norway",
+        "hobbies": [
+            "TRAVEL",
+            "MEDITATION",
+            "YOGA",
+            "FASHION"
+        ],
+        "friends": [
+            "Hannah Anderson",
+            "Ella Roberts",
+            "Owen Allen",
+            "Matthew Perez",
+            "Victoria Parker",
+            "Riley Campbell",
+            "Hannah White"
+        ],
+        "joined": "2024-12-13T13:47:24.587415",
+        "nationality": "Norwegian"
+    },
+    {
+        "name": "Lily Edwards",
+        "age": 35,
+        "country": "Thailand",
+        "hobbies": [
+            "BOXING",
+            "GUITAR"
+        ],
+        "friends": [
+            "Joseph Davis",
+            "Riley Hill",
+            "Nathan Perez",
+            "Nathan Baker",
+            "Mason Brown"
+        ],
+        "joined": "2024-10-18T13:47:24.587420",
+        "nationality": "Thai"
+    },
+    {
+        "name": "Gabriel Martinez",
+        "age": 24,
+        "country": "Brazil",
+        "hobbies": [
+            "DANCING",
+            "FOOTBALL",
+            "TENNIS",
+            "WRITING",
+            "SKIING"
+        ],
+        "friends": [
+            "Ella Reed",
+            "Daniel King",
+            "Lily Carter",
+            "Noah Jackson",
+            "Leo Anderson",
+            "Ella Mitchell",
+            "Ethan Jones",
+            "Lily Thomas",
+            "Owen Miller",
+            "Riley Anderson",
+            "Olivia Baker",
+            "Aria Jones"
+        ],
+        "joined": "2025-05-30T13:47:24.587427",
+        "nationality": "Brazilian"
+    },
+    {
+        "name": "Zoe Lee",
+        "age": 34,
+        "country": "Turkey",
+        "hobbies": [
+            "MEDITATION",
+            "CHESS",
+            "READING"
+        ],
+        "friends": [
+            "Madison Morris",
+            "Ella Roberts",
+            "Aubrey Edwards",
+            "Madison Reed",
+            "Caleb White",
+            "Chloe Collins",
+            "Layla Harris",
+            "Jack Collins",
+            "Charlotte Davis",
+            "Aria Jones"
+        ],
+        "joined": "2024-07-16T13:47:24.587433",
+        "nationality": "Turkish"
+    },
+    {
+        "name": "Jack Adams",
+        "age": 35,
+        "country": "South Korea",
+        "hobbies": [
+            "TENNIS",
+            "SPORTS"
+        ],
+        "friends": [
+            "Daniel King",
+            "Ella Roberts",
+            "Leo Anderson",
+            "Hannah Turner"
+        ],
+        "joined": "2025-04-10T13:47:24.587439",
+        "nationality": "Korean"
+    },
+    {
+        "name": "Grace Perez",
+        "age": 31,
+        "country": "Italy",
+        "hobbies": [
+            "COOKING",
+            "BOXING"
+        ],
+        "friends": [
+            "Madison Morris",
+            "Joseph Davis",
+            "Layla Harris",
+            "Jack Collins",
+            "Riley Mitchell",
+            "Isabella Moore",
+            "Lily Harris",
+            "Mason Brown"
+        ],
+        "joined": "2024-05-08T13:47:24.587445",
+        "nationality": "Italian"
+    },
+    {
+        "name": "Jack Wright",
+        "age": 35,
+        "country": "Russia",
+        "hobbies": [
+            "GARDENING",
+            "SINGING",
+            "SPORTS",
+            "GAMING",
+            "GYM"
+        ],
+        "friends": [
+            "Ella Reed",
+            "Charlotte Rodriguez",
+            "Amelia Cook",
+            "Hannah Turner",
+            "Layla Williams",
+            "Mason Rodriguez",
+            "Riley Turner",
+            "Ava Williams",
+            "Amelia Young",
+            "Alex Green",
+            "Nathan Perez",
+            "Liam Allen",
+            "Zoe Johnson",
+            "Lily Carter"
+        ],
+        "joined": "2024-11-15T13:47:24.587451",
+        "nationality": "Russian"
+    },
+    {
+        "name": "Charlotte Lopez",
+        "age": 22,
+        "country": "Vietnam",
+        "hobbies": [
+            "WRITING",
+            "READING"
+        ],
+        "friends": [
+            "James Anderson",
+            "Ethan Jones",
+            "Daniel Scott"
+        ],
+        "joined": "2024-11-25T13:47:24.587456",
+        "nationality": "Vietnamese"
+    },
+    {
+        "name": "Charlotte Brown",
+        "age": 30,
+        "country": "Spain",
+        "hobbies": [
+            "SPORTS",
+            "BAKING",
+            "CYCLING",
+            "MOVIES",
+            "GUITAR"
+        ],
+        "friends": [
+            "Noah Allen",
+            "Nathan Baker",
+            "Chloe Collins",
+            "Hannah Turner",
+            "Riley Mitchell",
+            "Lily Harris"
+        ],
+        "joined": "2024-12-21T13:47:24.587462",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Riley Mitchell",
+        "age": 27,
+        "country": "Spain",
+        "hobbies": [
+            "COOKING",
+            "GARDENING",
+            "BOXING"
+        ],
+        "friends": [
+            "Olivia Thompson",
+            "Ella Roberts",
+            "Daniel Sanchez",
+            "Jack Collins",
+            "Sebastian Garcia",
+            "Grace Perez",
+            "Liam Allen",
+            "Joseph Davis",
+            "Madison Morris",
+            "Noah Jackson",
+            "Liam Brown",
+            "Noah Allen",
+            "Isabella Moore",
+            "Alex Garcia",
+            "Charlotte Brown",
+            "Mason Brown"
+        ],
+        "joined": "2024-09-02T13:47:24.587468",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Lily Harris",
+        "age": 27,
+        "country": "Poland",
+        "hobbies": [
+            "GYM",
+            "GUITAR",
+            "SKIING",
+            "BOXING"
+        ],
+        "friends": [
+            "Olivia Thompson",
+            "Isaac Mitchell",
+            "Ella Reed",
+            "Noah Allen",
+            "Leo Anderson",
+            "Maria Moore",
+            "Ethan Jones",
+            "Grace Perez",
+            "Noah Hall",
+            "Nathan Perez",
+            "Madison Morris",
+            "David Scott",
+            "Riley Hill",
+            "Charlotte Brown",
+            "Ella Roberts"
+        ],
+        "joined": "2024-04-19T13:47:24.587473",
+        "nationality": "Polish"
+    },
+    {
+        "name": "Harper Morris",
+        "age": 30,
+        "country": "Brazil",
+        "hobbies": [
+            "DRAWING",
+            "ANIME",
+            "GYM",
+            "YOGA",
+            "GAMING"
+        ],
+        "friends": [
+            "Riley Anderson",
+            "Hazel Mitchell",
+            "Ethan Martin",
+            "Maria Moore",
+            "Ethan Jones",
+            "Sebastian Garcia",
+            "Lily Thomas",
+            "Charlotte Rodriguez",
+            "Noah Hall"
+        ],
+        "joined": "2025-07-13T13:47:24.587480",
+        "nationality": "Brazilian"
+    },
+    {
+        "name": "Mason Brown",
+        "age": 34,
+        "country": "Spain",
+        "hobbies": [
+            "PHOTOGRAPHY",
+            "MEDITATION",
+            "ANIME",
+            "BOXING",
+            "CHESS"
+        ],
+        "friends": [
+            "Lily Carter",
+            "Lily Adams",
+            "Mia Stewart",
+            "Carter Walker",
+            "Grace Perez",
+            "Riley Mitchell",
+            "Madison Morris",
+            "Noah Green",
+            "Lily Edwards",
+            "Alex Parker",
+            "Zoe Johnson",
+            "Nathan Rogers",
+            "Julian Lee",
+            "Lily Thomas",
+            "Ella Garcia"
+        ],
+        "joined": "2024-02-27T13:47:24.587487",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Lily Thomas",
+        "age": 26,
+        "country": "Thailand",
+        "hobbies": [
+            "DANCING",
+            "FOOTBALL",
+            "DRAWING",
+            "CHESS",
+            "ANIME"
+        ],
+        "friends": [
+            "Alex Parker",
+            "Mason Martinez",
+            "James Cook",
+            "Layla Harris",
+            "Gabriel Martinez",
+            "Harper Morris",
+            "Zoe Johnson",
+            "Matthew Perez",
+            "Mason Brown",
+            "Aria Jones",
+            "Nathan Rogers"
+        ],
+        "joined": "2024-07-08T13:47:24.587492",
+        "nationality": "Thai"
+    },
+    {
+        "name": "Ava Williams",
+        "age": 22,
+        "country": "Russia",
+        "hobbies": [
+            "DRAWING",
+            "MUSIC",
+            "SINGING",
+            "SKIING",
+            "COOKING"
+        ],
+        "friends": [
+            "Olivia Thompson",
+            "Ella Reed",
+            "Noah Allen",
+            "Isabella Moore",
+            "Daniel Roberts",
+            "Sebastian Garcia",
+            "Amelia Moore",
+            "James Lopez",
+            "Jack Wright",
+            "Ella Mitchell",
+            "Jack Collins",
+            "Alex Nelson",
+            "Harper Lee",
+            "Chloe Collins"
+        ],
+        "joined": "2024-06-22T13:47:24.587499",
+        "nationality": "Russian"
+    },
+    {
+        "name": "Riley Campbell",
+        "age": 29,
+        "country": "France",
+        "hobbies": [
+            "YOGA",
+            "TRAVEL",
+            "WRITING",
+            "MOVIES",
+            "TECH"
+        ],
+        "friends": [
+            "Henry Allen",
+            "Victoria Parker",
+            "Caleb Jackson",
+            "Hazel Mitchell",
+            "James Cook",
+            "Olivia Jackson",
+            "Amelia Anderson",
+            "Daniel Sanchez",
+            "Ethan Jones",
+            "Scarlett Mitchell"
+        ],
+        "joined": "2024-07-25T13:47:24.587505",
+        "nationality": "French"
+    },
+    {
+        "name": "Noah Hall",
+        "age": 29,
+        "country": "Vietnam",
+        "hobbies": [
+            "CYCLING",
+            "CODING",
+            "YOGA",
+            "GUITAR",
+            "WRITING"
+        ],
+        "friends": [
+            "Isaac Thompson",
+            "Ella Mitchell",
+            "Olivia Jackson",
+            "Alex Hall",
+            "Nathan Perez",
+            "Michael Allen",
+            "Lily Harris",
+            "Sophia Thompson",
+            "Grace King",
+            "Harper Morris",
+            "Riley Hill",
+            "Ethan Martin",
+            "Noah Allen",
+            "Jack King",
+            "Hannah Anderson"
+        ],
+        "joined": "2024-10-03T13:47:24.587512",
+        "nationality": "Vietnamese"
+    },
+    {
+        "name": "Matthew Moore",
+        "age": 29,
+        "country": "Norway",
+        "hobbies": [
+            "YOGA",
+            "TRAVEL",
+            "PAINTING",
+            "BASKETBALL"
+        ],
+        "friends": [
+            "Victoria Parker",
+            "Ellie Scott",
+            "Ella Mitchell",
+            "Ethan Martin",
+            "Owen Miller",
+            "Matthew Perez",
+            "Amelia Moore"
+        ],
+        "joined": "2024-08-18T13:47:24.587517",
+        "nationality": "Norwegian"
+    },
+    {
+        "name": "Aria Jones",
+        "age": 20,
+        "country": "Vietnam",
+        "hobbies": [
+            "FOOTBALL",
+            "MEDITATION",
+            "READING"
+        ],
+        "friends": [
+            "Madison Morris",
+            "Aubrey Edwards",
+            "Aubrey Morris",
+            "James Lopez",
+            "Ethan Jones",
+            "Lily Thomas",
+            "Lily Carter",
+            "Isaac Martin",
+            "Gabriel Martinez",
+            "Carter Walker",
+            "Nathan Rogers",
+            "Amelia Anderson",
+            "Liam Jones",
+            "Zoe Lee"
+        ],
+        "joined": "2025-11-23T13:47:24.587523",
+        "nationality": "Vietnamese"
+    },
+    {
+        "name": "Ella Garcia",
+        "age": 19,
+        "country": "Japan",
+        "hobbies": [
+            "ANIME",
+            "CHESS",
+            "GARDENING"
+        ],
+        "friends": [
+            "Madison Reed",
+            "Jack Collins",
+            "Henry Jackson",
+            "Joseph Hill",
+            "Alex Green",
+            "Mason Martinez",
+            "Mason Brown",
+            "Grace King",
+            "Madison Morris"
+        ],
+        "joined": "2025-04-27T13:47:24.587528",
+        "nationality": "Japanese"
+    },
+    {
+        "name": "Daniel Scott",
+        "age": 22,
+        "country": "Poland",
+        "hobbies": [
+            "WRITING",
+            "PIANO",
+            "CODING",
+            "READING",
+            "PAINTING"
+        ],
+        "friends": [
+            "Ella Baker",
+            "Julian Lee",
+            "Chloe Collins",
+            "Amelia Moore",
+            "Charlotte Lopez",
+            "Lily Carter",
+            "Joseph Hill",
+            "Mia Stewart",
+            "Noah Green",
+            "Daniel Roberts",
+            "Alex Nelson",
+            "Liam Mitchell"
+        ],
+        "joined": "2025-08-31T13:47:24.587534",
+        "nationality": "Polish"
+    },
+    {
+        "name": "Addison Baker",
+        "age": 25,
+        "country": "Italy",
+        "hobbies": [
+            "PHOTOGRAPHY",
+            "CYCLING",
+            "RUNNING"
+        ],
+        "friends": [
+            "Henry Allen",
+            "Harper Jackson",
+            "Joseph Wright",
+            "Noah Allen",
+            "Lily Adams",
+            "Caleb White",
+            "Charlotte Lee",
+            "Sebastian Garcia",
+            "John Campbell",
+            "Michael Allen",
+            "Scarlett Turner",
+            "Olivia Baker",
+            "Liam Brown",
+            "Lily Carter"
+        ],
+        "joined": "2024-05-04T13:47:24.587540",
+        "nationality": "Italian"
+    },
+    {
+        "name": "Nathan Rogers",
+        "age": 31,
+        "country": "Australia",
+        "hobbies": [
+            "SURFING",
+            "CYCLING",
+            "CHESS",
+            "PIANO",
+            "FOOTBALL"
+        ],
+        "friends": [
+            "Jack Collins",
+            "Mason Brown",
+            "Aria Jones",
+            "Caleb Jackson",
+            "Layla Harris",
+            "Lily Thomas",
+            "Julian Rodriguez",
+            "Daniel Roberts"
+        ],
+        "joined": "2025-08-26T13:47:24.587546",
+        "nationality": "Australian"
+    },
+    {
+        "name": "Leo Adams",
+        "age": 20,
+        "country": "Brazil",
+        "hobbies": [
+            "BAKING",
+            "SURFING"
+        ],
+        "friends": [
+            "Olivia Thompson",
+            "Victoria Parker",
+            "Alex Hall",
+            "Charlotte Lee",
+            "Grace King",
+            "Victoria Miller"
+        ],
+        "joined": "2025-11-09T13:47:24.587552",
+        "nationality": "Brazilian"
+    },
+    {
+        "name": "James Smith",
+        "age": 28,
+        "country": "Spain",
+        "hobbies": [
+            "PHOTOGRAPHY",
+            "READING"
+        ],
+        "friends": [
+            "Isaac Thompson",
+            "Ella Mitchell",
+            "Aubrey Edwards",
+            "Olivia Jackson"
+        ],
+        "joined": "2024-01-06T13:47:24.587557",
+        "nationality": "Spanish"
+    }
+]
