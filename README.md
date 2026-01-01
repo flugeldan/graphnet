@@ -48,6 +48,16 @@ Building a reusable platform for analyzing social networks using advanced graph 
 
 - **Also for now, one member can be only in one community (done that for optimization), but will add for small graphs either filter for biggest user community or every community that user in, right now you can tell how many unconnected groups of people there, or if everyone knows each other, possibly good for advertisiment (how to connect 2 independent groups of people by their interests)**
 
+- ### Separation Degree (BFS)
+- **Feature**s:
+- **BFS-based shortest path finding**
+- **Full path reconstruction from start to end**
+- **Handles edge cases (same user, direct friends, disconnected)**
+- **O(V+E) time complexity**
+Implementation:
+- **Queue stores (path, current_node) tuples**
+- **Path built incrementally during BFS**
+- **Returns (distance, path) or (None, None)**
 
 ### Best Match Scoring
 - **Factors:** Common hobbies (×5), Mutual friends (×5), Age similarity
@@ -61,7 +71,7 @@ Building a reusable platform for analyzing social networks using advanced graph 
 - [x] Project structure
 - [x] Data generator (120 users)
 - [x] Community detection (BFS)
-- [ ] Separation degree (BFS path finding)
+- [x] Separation degree (BFS path finding)
 - [ ] Mutual friend suggestions
 - [ ] Bridge detection (Tarjan's)
 - [ ] Friend-adding system by request rather than just adding
