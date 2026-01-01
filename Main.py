@@ -9,6 +9,7 @@ from datetime import datetime
 from core.models import User, SocialNetwork
 from core.algorithms import (
     find_communities,
+    separation_degree,
     show_best_match,
     show_common_friends,
     show_common_hobbies,
@@ -135,6 +136,21 @@ def main():
     print(f"Total users in system: {len(newUsers)}")
     print(f"Match: {total_users == len(newUsers)} ✅")
     print()
+
+    print("=== Separation Degree Test ===")
+    user_a = newUsers[0]
+    user_b = newUsers[20]
+    dist, path = separation_degree(user_a, user_b, friendsGraph)
+    if dist is None:
+        print(f"{user_a.name} and {user_b.name} are not connected")
+    else:
+        print(f"Distance between {user_a.name} and {user_b.name}: {dist}")
+        print(f"Path: {' → '.join(path)}")
+        print()
+
+
+
+
 
 
 if __name__ == "__main__":

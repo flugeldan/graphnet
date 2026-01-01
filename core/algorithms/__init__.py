@@ -1,7 +1,7 @@
 """
 Graph algorithms module
 """
-from .traversal import find_communities
+from .traversal import find_communities, separation_degree
 from .matching import show_best_match, calculate_match_score
 from .analysis import (
     show_common_friends,
@@ -12,6 +12,7 @@ from .analysis import (
 
 __all__ = [
     'find_communities',
+    'separation_degree',
     'show_best_match',
     'calculate_match_score',
     'show_common_friends',
