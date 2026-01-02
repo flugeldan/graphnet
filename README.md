@@ -13,7 +13,7 @@ Building a reusable platform for analyzing social networks using advanced graph 
 - ✅ **Common Analysis** - Find common friends and hobbies
 - ✅ **Data Generator** - Create 100+ realistic test users
 - ✅ **Separation Degree** - Shortest path between users
-- ⬜ **Mutual Friend Suggestions** - "People you may know"
+- ✅ **Mutual Friend Suggestions** - "People you may know"
 - ⬜ **Bridge Detection** - Critical connections (Tarjan's algorithm)
 
 ### Planned (Stage 2-3)
@@ -49,7 +49,7 @@ Building a reusable platform for analyzing social networks using advanced graph 
 - **Also for now, one member can be only in one community (done that for optimization), but will add for small graphs either filter for biggest user community or every community that user in, right now you can tell how many unconnected groups of people there, or if everyone knows each other, possibly good for advertisiment (how to connect 2 independent groups of people by their interests)**
 
 - ### Separation Degree (BFS)
-- **Feature**s:
+- **Features**:
 - **BFS-based shortest path finding**
 - **Full path reconstruction from start to end**
 - **Handles edge cases (same user, direct friends, disconnected)**
@@ -65,6 +65,19 @@ Implementation:
 - **Formula:** `score = base × (1 / (1 + (age_diff - 10) × 0.2))` 
 - **Const 0.2 is changeable, put 0.05 if u want for example tax 5% for each year**
 
+- 
+- ***Mutual Friend Suggestions (BFS)***
+- **Similar feature to show best match, but this one prioritizes depth connection and have higher coefficient for less depth, function works as "people you may know" feature**
+- **BFS-based approach checking friends on each depth, and calculating score based on depth and common hobbies (common hobbies has low coefficient here due to friendship prioritization)**
+- **Complexity: O(V + E)**
+- 
+  Implementation:
+- **Adding user friends and user into set that contains people that we shouldn't check/already stored**
+- **Calculating their score and adding their friends into queue and them into set people that we are not checking.**
+- **As soon as we hit depth 4, we do not go deeper, because connection is too far.**
+- **Suggestion list contains tuples of format (score, person) and queue contains tuples (depth, person).**
+- 
+
 ## 📈 Development Progress
 
 ### Stage 1: Classical Graph Algorithms
@@ -72,7 +85,7 @@ Implementation:
 - [x] Data generator (120 users)
 - [x] Community detection (BFS)
 - [x] Separation degree (BFS path finding)
-- [ ] Mutual friend suggestions
+- [x] Mutual friend suggestions
 - [ ] Bridge detection (Tarjan's)
 - [ ] Friend-adding system by request rather than just adding
 - [ ] After every operation of removing/adding friend, checking changes in community graph
